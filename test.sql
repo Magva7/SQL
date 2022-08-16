@@ -1,0 +1,2 @@
+SELECT DISTINCT speed, ram
+FROM PC;
